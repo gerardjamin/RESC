@@ -1,0 +1,6 @@
+Fatal error: Uncaught TypeError: Cannot access offset of type string on string in C:\Users\gerar\Desktop\OpenClassRoom\bootstrapMonSite\action_membre.php:27 Stack trace: #0 {main} thrown in C:\Users\gerar\Desktop\OpenClassRoom\bootstrapMonSite\action_membre.php on line 27
+
+---> clef du tableau non trouvé
+
+exemple pour separer suivant un espace:
+<td> <div class="date_patient"><?php echo implode(" ",$start['']); ?></div></td>

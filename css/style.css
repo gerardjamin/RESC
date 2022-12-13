@@ -1,0 +1,114 @@
+.headers
+{
+  
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    color: dark;
+    background: #72C1F2;
+}
+
+.col-lg-6{
+    
+     font-size: 14px; 
+     padding-top:30px;
+     font-weight: bold;
+}
+
+/* preload */
+img.preload {
+display:none;
+}
+
+#contact{
+     font-family:Bebas_Neue !important;
+     text-align: center;
+}
+
+h3{
+font-family:Bebas_Neue !important;
+text-align: center;   
+}
+
+.star{
+    font-size: 100px;
+    color: #FFD3C9;
+}
+
+.list-group-item:hover{
+color: #FFD3C9;
+}
+
+.col-lg-6 .btn{
+    margin-top: 80px;
+}
+
+#Acces{
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* partie acces membre */
+#container{
+    width:300px;
+    margin:5px auto;
+    margin-top:10%;
+}
+/*
+@media (max-width:575px) {
+    .display-4 {
+        font-size: 1.5 rem;
+    } */
+}
+
+.day h5 {
+        background-color: #f8f9fa;
+        padding: 3px 5px 5px;
+        margin: -8px -8px 8px -8px;
+    }
+
+.date {
+        padding-left: 4px;
+    }
+
+@media (min-width: 576px) {
+    .day {
+        height: 14.2857vw;
+    }
+}
+
+.calendrier{
+    width: 100%;
+    margin-top: 20px;
+    height: calc(100vh - 250px );
+}
+
+.calendrier td{
+    padding:  10px;
+    /* couleur gris */
+    border:  1px solid #ccc;
+    vertical-align:  top;
+    width: auto;
+}
+
+#titre{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.calendrier_week{
+    font-weight: bold;
+}
+
+.vosrendezvous{
+    text-align: center;
+}
+
+.vosmessagecontact{
+    font-family:Bebas_Neue !important;
+    text-align: center;
+    margin-top: 100px;   
+
+}
+
+
