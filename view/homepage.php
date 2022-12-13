@@ -33,7 +33,7 @@
   									<!--FIN barre de navigation-->
   									<!--message de bienvenue-->
   	<div class="container pt-4 text-center">
-  		<h1>Une médecine douce qui a le vent en poupe</h1>
+  		<h1>Une médecine douce qui a le vent en poupe....</h1>
   		<p>Merci de visiter notre site, Bienvenue à vous et bonne découverte</p>
   	</div>
   									
